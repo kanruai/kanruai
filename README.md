@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kanruai
+- 👀 I’m a vb6/dotnet developer
+- 🌱 I’m currently learning mobile app developing
